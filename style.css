@@ -1,0 +1,60 @@
+body{
+
+    background-color: #34495e;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+.container{
+    background-color: #ecf0f1;
+
+    width: 30%;
+    margin: auto;
+    height: 180px;
+
+    border-radius: 20px;
+
+}
+
+.titulo{
+    margin-bottom: 10px;
+
+}
+
+.cronometro{
+    font-size: 2rem;
+
+
+}
+
+.button{
+
+    background-color: #34495e;
+    color: #ecf0f1;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    border: none;
+
+    cursor: pointer;
+
+    opacity: 0.8;
+
+}
+
+
+
+.button:hover{
+   opacity: 1;
+   
+}
+
+.pausado{
+
+    color: red;
+
+
+}
